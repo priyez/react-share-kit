@@ -229,7 +229,7 @@ import { FacebookMessengerShare } from 'react-share-kit'
 import { EmailShare } from 'react-share-kit'
 
 <EmailShare
-  url={'https://github.com/next-share'}
+  url={'https://github.com/ayda-tech/react-share-kit'}
   subject={'Next Share'}
   body="body"
 />
